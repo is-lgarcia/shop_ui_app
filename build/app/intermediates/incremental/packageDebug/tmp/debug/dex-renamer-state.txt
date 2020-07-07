@@ -1,0 +1,4 @@
+#Tue Jul 07 14:42:39 CST 2020
+base.0=C\:\\Users\\luis1\\Documents\\AplicacionesFlutter\\shop_ui_app\\shop_ui_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
